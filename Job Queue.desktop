@@ -2,7 +2,7 @@
 Type=Application
 Exec=/home/punitabc/shell-script/Printer_Troubleshooter.sh
 Name=Printer Queue
-Icon=~/shell-script/printer.png
+Icon=map-globe
 Type=Application
 Encoding=UTF-8
 Terminal=false
