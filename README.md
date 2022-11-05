@@ -14,6 +14,9 @@ Please customize this script according to your needs!!
 
 ```chmod +x Printer_Troubleshooter.sh ```
 
+### Dependencies
+```sudo apt install zenity```
+
 
 
 <a href="https://www.flaticon.com/free-icons/print" title="print icons">Print icons created by Freepik - Flaticon</a>
