@@ -13,3 +13,7 @@ Please customize this script according to your needs!!
 ```copy Job\ Queue.desktop /usr/share/applications ```
 
 ```chmod +x Printer_Troubleshooter.sh ```
+
+
+
+<a href="https://www.flaticon.com/free-icons/print" title="print icons">Print icons created by Freepik - Flaticon</a>
