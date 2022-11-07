@@ -19,8 +19,10 @@ Please customize this script according to your needs!!
  <a href="https://form.jotform.com/223103545577455"> Feedback Form </a>
 
  Please manually replace the home directory in Job Queue.desktop file
+ 
  ```sudo cp Job\ Queue.desktop /usr/share/applications ```
  ```sudo nano ./Job\ Queue.desktop```
+ 
 ..Exec=/home/[your_home_directory]/shell-script/Printer_Troubleshooter.sh
 
 ..Icon=/home/[your_home_directory]/shell-script/printer.png
