@@ -10,14 +10,15 @@ Please customize this script according to your needs!!
 
 ```cd shell-script ```
 
-```copy Job\ Queue.desktop /usr/share/applications ```
-
 ```chmod +x Printer_Troubleshooter.sh ```
 
 ### Dependencies
 ```sudo apt install zenity```
+
+
  <a href="https://form.jotform.com/223103545577455"> Feedback Form </a>
 
- Please replace the home directory in Job Queue.desktop file
+ Please manually replace the home directory in Job Queue.desktop file
+ ```sudo cp Job\ Queue.desktop /usr/share/applications ```
  
 <a href="https://www.flaticon.com/free-icons/print" title="print icons">Print icons created by Freepik - Flaticon</a>
