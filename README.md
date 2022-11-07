@@ -6,11 +6,11 @@ using a Shell Script with added GUI, Troubleshoot Job Queues and Printers
 Please customize this script according to your needs!!
 
 ## Installation
-```git clone  https://github.com/linux-printer-troubleshooter/shell-script.git   ```
+```$ git clone  https://github.com/linux-printer-troubleshooter/shell-script.git   ```
 
-```cd shell-script ```
+```$ cd shell-script ```
 
-```chmod +x Printer_Troubleshooter.sh ```
+```$ chmod +x Printer_Troubleshooter.sh ```
 
 ### Dependencies
 ```sudo apt install zenity```
