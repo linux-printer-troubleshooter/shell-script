@@ -18,6 +18,6 @@ Please customize this script according to your needs!!
 ```sudo apt install zenity```
  <a href="https://form.jotform.com/223103545577455"> Feedback Form </a>
 
- 
+ Please replace the home directory in Job Queue.desktop file
  
 <a href="https://www.flaticon.com/free-icons/print" title="print icons">Print icons created by Freepik - Flaticon</a>
