@@ -16,7 +16,7 @@ Please customize this script according to your needs!!
 
 ### Dependencies
 ```sudo apt install zenity```
- <a href="javascript:void( window.open( 'https://form.jotform.com/223103545577455', 'blank', 'scrollbars=yes, toolbar=no, width=700, height=500' ) ) "> Feedback Form </a>
+ <a href="https://form.jotform.com/223103545577455"> Feedback Form </a>
 
  
  
