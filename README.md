@@ -21,10 +21,11 @@ Please customize this script according to your needs!!
  Please manually replace the home directory in Job Queue.desktop file
  
  ```sudo cp Job\ Queue.desktop /usr/share/applications ```
+ 
  ```sudo nano ./Job\ Queue.desktop```
  
-..Exec=/home/[your_home_directory]/shell-script/Printer_Troubleshooter.sh
+Exec=/home/[your_home_directory]/shell-script/Printer_Troubleshooter.sh
 
-..Icon=/home/[your_home_directory]/shell-script/printer.png
+Icon=/home/[your_home_directory]/shell-script/printer.png
  
 <a href="https://www.flaticon.com/free-icons/print" title="print icons">Print icons created by Freepik - Flaticon</a>
