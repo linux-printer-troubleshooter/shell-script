@@ -27,5 +27,14 @@ Please customize this script according to your needs!!
 Exec=/home/[your_home_directory]/shell-script/Printer_Troubleshooter.sh
 
 Icon=/home/[your_home_directory]/shell-script/printer.png
+
+### Troubleshooting Tips for Linux Printers
+Please uninstall ALL your printer drivers such as hplip and hp-setup-app
+and any other apps depending on your printer make. Make sure all these apps
+which you may have installed through the different package managers such 
+as apt, and snap, Also there is a better way of connecting the printer directly
+using ipp ddnsd or other protocols which are supported by almost all printers.
+This can make you achieve a very basic printing  Unless your printer has 
+advanced or Extra Features, then (Only Then! you may install their drivers.
  
 <a href="https://www.flaticon.com/free-icons/print" title="print icons">Print icons created by Freepik - Flaticon</a>
