@@ -1,4 +1,4 @@
-# Linux-Printers-Job-Shell-GUI-Script
+# Linux Printers' Job Queue Shell Script with GUI
 Shell script GUI wrapper for your Printer needs!
 Usually a Printer Job Queue is not Very Accessible on Most Linux Oses and Cannot be
 Pinned to the Desktop. I usually had Trouble Finding it!!
