@@ -48,5 +48,9 @@ as apt, and snap, Also there is a better way of connecting the printer directly
 using ipp ddnsd or other protocols which are supported by almost all printers.
 This can make you achieve a very basic printing  Unless your printer has 
 advanced or Extra Features, then (Only Then! you may install their drivers.
+
+Make Sure Your Printer is Connected to Network before Opening Printer URI Page.
+
+
  
 <a href="https://www.flaticon.com/free-icons/print" title="print icons">Print icons created by Freepik - Flaticon</a>
