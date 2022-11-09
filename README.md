@@ -1,7 +1,19 @@
 # Linux-Printers-Job-Shell-GUI-Script
-Shell script to manage Linux printing Jobs and 
-a Queue Manager GUI and Printer URI finder 
-using a Shell Script with added GUI, Troubleshoot Job Queues and Printers
+Shell script GUI wrapper for your Printer needs!
+Usually a Printer Job Queue is not Very Accessible on Most Linux Oses and Cannot be
+Pinned to the Desktop. I usually had Trouble Finding it!!
+So here,goes. A Zenity Wrapped Shell Script for the Most basic and somewhat Useful Tasks.
+
+You can add a Shortcut directly to the Queue to the Menu, Taskbar.
+
+This is basically a Job Queue.
+
+It also has a Nifty feature to find out your Printers IPP or DDNSD address URI.
+This comes in Handy in Linux, while Installing Printers, they ask for this.
+
+Many times I had no Clue what my Printer's IP Address Is!
+Again I have to Fetch it using some other commands or the Router's Interface.
+Then I am not quite sure of the Printer's IPP/DDNSD URI
 
 Please customize this script according to your needs!!
 
