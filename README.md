@@ -1,4 +1,4 @@
-# Smiley Man Job Queue
+# ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")Smiley Man Job Queue
 Shell script GUI wrapper for your Printer needs!
 Usually a Printer Job Queue is not Very Accessible on Most Linux Oses and Cannot be
 Pinned to the Desktop. I usually had Trouble Finding it!!
