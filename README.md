@@ -3,22 +3,38 @@
 
 
 Shell script GUI wrapper for your Printer needs!
-Usually a Printer Job Queue is not Very Accessible on Most Linux Oses and Cannot be
-Pinned to the Desktop. I usually had Trouble Finding it!!
-So here,goes. A Zenity Wrapped Shell Script for the Most basic and somewhat Useful Tasks.
 
-You can add a Shortcut directly to the Queue to the Menu, Taskbar.
+### PROBLEMS I FACE:-
+Usually a Printer Job Queue is not Very Accessible on Most Linux Oses (Atleast on KDE which I use
+and Cannot be Pinned to the Desktop. It hides behind menus and clicks.
+I usually have Trouble Finding it!! All-in-all I want a tool that takes me straight to the Job Queue
+Like in Windows!
+
+So here,goes. A Zenity Wrapped Shell Script for the Most basic and somewhat Useful .
+
+You can add a Shortcut directly to the Queue to the Menu and the Taskbar.
 
 This is basically a Job Queue.
 
-It also has a Nifty feature to find out your Printers IPP or DDNSD address URI.
-This comes in Handy in Linux, while Installing Printers, they ask for this.
+It also has a Nifty Button to find out your Printers Broadcasting their IPP/DDNSD.
 
-Many times I had no Clue what my Printer's IP Address Is!
-Again I have to Fetch it using some other commands or the Router's Interface.
+This comes in Handy in Linux, while Installing Printers, they want this "URI" especially
+if you're Installing Network Printers And/or Installing the Printer Manually.
+
+Usually, this Address is a combination of your Printer's IP Address with some phrases and
+words.
+
+Many times I have no Clue what my Printer's IP Address Is! Since I shut it down when I'm not
+using it. I reset my router often also.
+
+Again I have to Fetch it using some other commands or go to the Router's Interface.
+
 Then I am not quite sure of the Printer's IPP/DDNSD URI
 
-Please customize this script according to your needs!!
+
+
+Suggestions are most Welcome... <a href="https://form.jotform.com/223103545577455"> Feedback Form </a>
+
 
 ## Installation
 ```$ git clone  https://github.com/linux-printer-troubleshooter/shell-script.git   ```
@@ -29,15 +45,14 @@ Please customize this script according to your needs!!
 
  ```sudo cp Job\ Queue.desktop /usr/share/applications ```
  
- ```sudo nano ./Job\ Queue.desktop```
 
 ### Dependencies
 ```sudo apt install zenity```
 
 
- <a href="https://form.jotform.com/223103545577455"> Feedback Form </a>
+<hr>
+ ### Please manually replace the home directory in Job Queue.desktop file in the following lines: ```sudo nano ./Job\ Queue.desktop```
 
- Please manually replace the home directory in Job Queue.desktop file
  
 
  
