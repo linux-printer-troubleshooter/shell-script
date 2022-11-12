@@ -5,9 +5,11 @@
 Shell script GUI wrapper for your Printer needs!
 
 ### PROBLEMS I FACE:-
-Usually a Printer Job Queue is not Very Accessible on Most Linux Oses (Atleast on KDE which I use
-and Cannot be Pinned to the Desktop. It hides behind menus and clicks.
-I usually have Trouble Finding it!! All-in-all I want a tool that takes me straight to the Job Queue
+Usually a Printer Job Queue is not Very Accessible on Many Linux Oses (Atleast this has been my experience
+on KDE which I use..I need to click on the Printer Icon, Find the Printer I'm looking for and then a drop down box
+reveals its Job Queue..and Cannot be Pinned to the Desktop. This hides behind menus and clicks.
+
+This script shows you ALL YOUR PENDING JOBS regardless of the Printer
 Like in Windows!
 
 So here,goes. A Zenity Wrapped Shell Script for the Most basic and somewhat Useful .
