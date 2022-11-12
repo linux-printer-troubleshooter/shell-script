@@ -7,9 +7,7 @@ remove_printer () {
 
 about ()
 {
-if zenity --forms --text='Shell Script Written Solely in Bash using lpadmin,lpq-a,lp-i commands.' --ok-label='Tell me more.' --cancel-label='Go back';then
- if zenity --forms --text='Sh' --ok-label='Thanks' --cancel-label='Go back';then echo hello;else echo hi;fi; fi
-
+zenity --forms --text='<a href="https://github.com/linux-printer-troubleshooter/shell-script">Github repository\n\n</a>\n\n\n\n\n\n\n\n\nblue clipart PNG Designed By Molly from<a href="https://pngtree.com/freepng/a-few-blue-clouds-and-rain_5624369.html?sol=downref%26id=bef"> pngtree</a>'
 }
 
 
