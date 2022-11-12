@@ -1,9 +1,9 @@
 [Desktop Entry]
 GenericName=Job Queue
 Type=Application
-Exec=/home/punitabc/shell-script/Printer_Troubleshooter.sh
+Exec=/home/Add Username here/shell-script/Printer_Troubleshooter.sh
 Name=Printer Queue
-Icon=/home/punitabc/shell-script/printer.png
+Icon=/home/Add Username here/shell-script/printer.png
 Categories=Office
 Encoding=UTF-8
 Terminal=false
