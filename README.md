@@ -9,8 +9,7 @@ Usually a Printer Job Queue is not Very Accessible on Many Linux Oses (Atleast t
 on KDE which I use..I need to click on the Printer Icon, Find the Printer I'm looking for and then a drop down box
 reveals its Job Queue..and Cannot be Pinned to the Desktop. This hides behind menus and clicks.
 
-This script shows you ALL YOUR PENDING JOBS regardless of the Printer
-Like in Windows!
+This script shows you ALL *YOUR PENDING JOBS* irrespective of Printer Name, Like in Windows!
 
 So here,goes. A Zenity Wrapped Shell Script for the Most basic and somewhat Useful .
 
