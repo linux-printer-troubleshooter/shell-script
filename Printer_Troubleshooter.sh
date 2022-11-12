@@ -8,7 +8,7 @@ remove_printer () {
 about ()
 {
 #zenity --text-info --html --filename="/home/punitabc/Documents/2_.html"
-zenity --forms --text='<a href="https://github.com/linux-printer-troubleshooter/shell-script">Github repository\n\n</a>\n\n\n\n\n\n\n\n\nblue clipart PNG Designed By Molly from<a href="https://pngtree.com/freepng/a-few-blue-clouds-and-rain_5624369.html?sol=downref%26id=bef"> pngtree</a>
+zenity --forms --text='<a href="https://form.jotform.com/223103545577455">Feedback\n\n</a>\n\n\n\n\n\n\n\n\nblue clipart PNG Designed By Molly from<a href="https://pngtree.com/freepng/a-few-blue-clouds-and-rain_5624369.html?sol=downref%26id=bef"> pngtree</a>
 <a href="https://www.flaticon.com/free-icons/wild-life" title="wild life icons">Wild life icons created by Alfian Dwi Hartanto - Flaticon</a>' --title="Wine" --window-icon="/home/punitabc/Downloads/horse.png"
 }
 
