@@ -7,7 +7,7 @@ remove_printer () {
 
 about ()
 {
-zenity --forms --text='<a href="https://github.com/linux-printer-troubleshooter/shell-script">Github repository\n\n</a> Known Issue#1 Process does not kill on Pressing OK, Known Missing Feature#1 Printer list does not update by itself\n\n\n\n\n\n\n\n\nblue clipart PNG Designed By Molly from<a href="https://pngtree.com/freepng/a-few-blue-clouds-and-rain_5624369.html?sol=downref%26id=bef"> pngtree</a>'
+zenity --forms --text='<a href="https://github.com/linux-printer-troubleshooter/shell-script">Github repository\n\n</a><span font="9" foreground="dark grey"> Known Issue#1 Process does not kill on Pressing OK,\n Known Missing Feature#1 Printer list does not update by itself</span>\n\n\n\n\n\n\n\n\nblue clipart PNG Designed By Molly from<a href="https://pngtree.com/freepng/a-few-blue-clouds-and-rain_5624369.html?sol=downref%26id=bef"> pngtree</a>'
 }
 
 
