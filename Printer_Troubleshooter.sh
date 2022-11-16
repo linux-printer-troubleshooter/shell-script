@@ -7,7 +7,7 @@ remove_printer () {
 
 about ()
 {
-zenity --forms --text='<a href="https://github.com/linux-printer-troubleshooter/shell-script">Github repository\n\nCourtesy:\tFine Linen Software\n\n</a><span font="9" foreground="dark grey"> Known Issue#1 Process does not kill on Pressing OK,\n Known Missing Feature#1 Queues/ lists do not update by themselves</span>\n\n\nBiggest Advantage of This Software is\nRemoving the Complexities of \nDifferent Packages\n. I would like To keep it as A Shell Script\tIF You are a Simple Printer\nUser Like Me,<i> Then this is for u</i> In which U uninstall ALL bloatware\nlike additional drivers and are looking for basic printing quickly.\n\n\n\n\nblue clipart PNG Designed By Molly from<a href="https://pngtree.com/freepng/a-few-blue-clouds-and-rain_5624369.html?sol=downref%26id=bef"> pngtree</a>'
+zenity --forms --text='<a href="https://github.com/linux-printer-troubleshooter/shell-script">Github repository\n\nCourtesy:\tFine Linen Software\n\n</a><span font="9" foreground="dark grey"> Known Issue#1 Process does not kill on Pressing OK,\n Known Missing Feature#1 Queues/ lists do not update by themselves</span>\n\n\nBiggest Advantage of This Software is\nRemoving the Complexities of \nDifferent Packages\n. I would like To keep it as A 'Simple' Shell Script\tIF You are a Simple Printer\nUser Like Me,<i> Then this is for u</i> In which U uninstall ALL bloatware\nlike additional drivers and are looking for basic printing quickly.\n\n\n\n\nblue clipart PNG Designed By Molly from<a href="https://pngtree.com/freepng/a-few-blue-clouds-and-rain_5624369.html?sol=downref%26id=bef"> pngtree</a>'
 }
 
 
